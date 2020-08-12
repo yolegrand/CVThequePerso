@@ -1,0 +1,76 @@
+﻿<nav class="Pagination is-centered" role="navigation" arial-label="pagination">
+
+    @if (HasPreview)
+    {
+        <a class="Pagination-previous" @onclick="@(async () => await PagerButtonClicked(CurrentPage - 1))">Précédent</a>
+    }
+    else
+    {
+        <a class="Pagination-previous" disabled>Précédent</a>
+    }
+    @if (HasNext)
+    {
+        <a class="Pagination-next" @onclick="@(async () => await PagerButtonClicked(CurrentPage + 1))">Suivant</a>
+    }
+    else
+    {
+        <a class="Pagination-next" disabled>Suivant</a>
+    }
+    <ul class="Pagination-list">
+        if(ShowPageNumbers)
+        {
+            @for(var i = start; i <= Finish; i++)
+            {
+                var CurrentIndex = i;
+                if(i == CurrentIndex)
+                {
+                    <li><a class="Panination-link is-current" arial-current="page">@i</a></li>
+                }
+                else
+                {
+                    <li><a class="Panination-link" arial-label="aller a la page @CurrentIndex"@onclick="@(async () => await PagerButtonClicked(CurrentIndex))">@CurrentIndex</a></li>
+                }
+            }
+        }
+    </ul>
+</nav>
+
+@code {
+    [Parameter]
+    public int PageCount { get; set; }
+    [Parameter]
+    public int CurrentPage { get; set; }
+
+    [Parameter]
+    public Func<int, Task> OnPageChanged { get; set; }
+    [Parameter]
+    public bool ShowPageNumbers { get; set; } = true;
+    [Parameter]
+    public int VisiblePages { get; set; }
+    [Parameter]
+    public int start { get; set; }
+    [Parameter]
+    public int Finish { get; set; }
+
+
+    protected override void OnParametersSet()
+    {
+        var half = (int)Math.Floor(VisiblePages / 2d);
+        start = Math.Max(CurrentPage - half, 1);
+        Finish = Math.Min(CurrentPage + half, PageCount);
+        VisiblePages = Math.Min(VisiblePages, PageCount);
+        if (start == 1)
+            Finish = VisiblePages;
+        if (Finish >= PageCount)
+            start = PageCount - VisiblePages + 1;
+
+
+        base.OnParametersSet();
+    }
+    public bool HasPreview => CurrentPage > 1 && PageCount > 1;
+    public bool HasNext => CurrentPage < PageCount;
+    public async Task PagerButtonClicked(int page)
+    {
+        await OnPageChanged?.Invoke(page);
+    }
+}

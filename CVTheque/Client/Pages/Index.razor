@@ -1,0 +1,21 @@
+﻿@page "/"
+@inject LocalStorage storage
+@using Cloudcrate.AspNetCore.Blazor.Browser.Storage
+@using System.Globalization
+
+<NavBarTop />
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+@if(storage["token"] == null || storage["username"] == null)
+{
+<p>Vous nêtes pas connecté</p>
+}
+else
+{
+    <p>Bienvenue @textInfo.ToTitleCase(storage["username"])</p>
+}
+
+@code
+{
+    private static TextInfo textInfo = CultureInfo.CurrentCulture.TextInfo;
+}

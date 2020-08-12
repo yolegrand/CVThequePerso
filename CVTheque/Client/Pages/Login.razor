@@ -1,0 +1,87 @@
+﻿@page "/Login"
+@inject IUserRepository<int, UserApi> _userRepo
+@inject IJSRuntime js
+@inject NavigationManager uriHelper
+@inject LocalStorage storage
+@using CVTheque.client.ViewModels
+@using CVTheque.Client.ViewModels
+@using Cloudcrate.AspNetCore.Blazor.Browser.Storage
+@using Services.Http
+@using System.Net
+@using Newtonsoft.Json
+@using System.Globalization
+
+<h3>Signup</h3>
+
+<EditForm Model="@user" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    @if(InvalidCredentialText != "")
+    {
+        <ul class="validation-error">
+            <li class="validation-message">@InvalidCredentialText</li>
+        </ul>
+    }
+    @*<InputText id="name" @bind-Value="user.Username" />*@
+
+    
+    <div class="field">
+        <label class="label">Username</label>
+        <div class="control has-icons-left ">
+            <!--has-icons-right-->
+            <MyInputRazor id="username" Type="Text" @bind-Value="user.Username" Class="input" Autocomplete="username" />
+            <span class="icon is-small is-left">
+                <i class="fas fa-user"></i>
+            </span>
+            @*<span class="icon is-small is-right">
+                    <i class="fas fa-check"></i>
+                </span>*@
+        </div>
+        @*<p class="help is-success">This username is available</p>*@
+        <p class="help is-danger"> <ValidationMessage For="@(() => user.Username)" /></p>
+    </div>
+
+    <div class="field">
+        <label class="label">Pass</label>
+        <div class="control has-icons-left">
+            <MyInputRazor Type="password" id="password" @bind-Value="user.Password" Class="Input" Autocomplete="current-password" />
+            <span class="icon is-small is-left">
+                <i class="fas fa-lock"></i>
+            </span>
+        </div>
+        <p class="help is-danger"> <ValidationMessage For="@(() => user.Password)" /></p>
+    </div>
+
+    <div class="field">
+        <p class="control">
+            <button type="submit" class="button is-primary">Se connecter</button>
+        </p>
+    </div>
+
+
+</EditForm>
+
+@code {
+    private ViewLogin user = new ViewLogin();
+    static TextInfo tinfo = CultureInfo.CurrentCulture.TextInfo;
+    string InvalidCredentialText = "";
+
+    private async void HandleValidSubmit()
+    {
+
+        var response = await _userRepo.Login(user);
+
+        switch (response.StatusCode)
+        {
+            case HttpStatusCode.OK:
+                string content = await response.Content.ReadAsStringAsync();
+                user = JsonConvert.DeserializeObject<ViewLogin>(content);
+                uriHelper.NavigateTo("/.");
+                break;
+            case HttpStatusCode.BadRequest:
+                InvalidCredentialText = await response.Content.ReadAsStringAsync();
+                break;
+        }
+    }
+}

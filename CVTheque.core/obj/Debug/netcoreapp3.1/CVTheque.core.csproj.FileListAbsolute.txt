@@ -1,0 +1,57 @@
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.deps.json
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csprojAssemblyReference.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfoInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfo.cs
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csproj.CoreCompileInputs.cache
+C:\Users\jevra\source\repos\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.deps.json
+C:\Users\jevra\source\repos\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\source\repos\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\source\repos\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csprojAssemblyReference.cache
+C:\Users\jevra\source\repos\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfoInputs.cache
+C:\Users\jevra\source\repos\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfo.cs
+C:\Users\jevra\source\repos\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\source\repos\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\source\repos\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.runtimeconfig.json
+C:\Users\jevra\source\repos\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.runtimeconfig.dev.json
+C:\Users\jevra\source\repos\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csproj.CoreCompileInputs.cache
+C:\Users\jevra\source\repos\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.genruntimeconfig.cache
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.deps.json
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.runtimeconfig.json
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.runtimeconfig.dev.json
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csprojAssemblyReference.cache
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfoInputs.cache
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfo.cs
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.genruntimeconfig.cache
+C:\Users\jevra\source\repos\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Desktop\Models\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.deps.json
+C:\Users\jevra\Desktop\Models\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.runtimeconfig.json
+C:\Users\jevra\Desktop\Models\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.runtimeconfig.dev.json
+C:\Users\jevra\Desktop\Models\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\Desktop\Models\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\Desktop\Models\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csprojAssemblyReference.cache
+C:\Users\jevra\Desktop\Models\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfoInputs.cache
+C:\Users\jevra\Desktop\Models\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfo.cs
+C:\Users\jevra\Desktop\Models\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Desktop\Models\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\Desktop\Models\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\Desktop\Models\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.genruntimeconfig.cache
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.deps.json
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.runtimeconfig.json
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.runtimeconfig.dev.json
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\bin\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csprojAssemblyReference.cache
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfoInputs.cache
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.AssemblyInfo.cs
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.dll
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.pdb
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.genruntimeconfig.cache
+C:\Users\jevra\Desktop\CVTheque\CVTheque.core\obj\Debug\netcoreapp3.1\CVTheque.core.csproj.CoreCompileInputs.cache

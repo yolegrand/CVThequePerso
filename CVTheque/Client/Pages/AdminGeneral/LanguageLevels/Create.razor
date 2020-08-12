@@ -1,0 +1,30 @@
+﻿@page "/AdminGeneral/LanguageLevels/create"
+@inject HttpClient http
+@inject NavigationManager uriHelper
+@using Services.Http
+@inject IRepository<int, LanguageLevelApi> _levelRepo
+@using System.Net
+@using Newtonsoft.Json
+
+    <NavBarTop />
+
+<h3>Create</h3>
+
+<Form ButtonText="Create LanguageLevel" lev="@lev"
+      OnValidSubmit="@CreateLevel" />
+
+@code { LanguageLevelApi lev = new LanguageLevelApi();
+            async Task CreateLevel()
+            {
+                var response = await _levelRepo.Post(lev);
+
+                switch (response.StatusCode)
+                {
+                    case HttpStatusCode.OK:
+                        string content = await response.Content.ReadAsStringAsync();
+                        lev = JsonConvert.DeserializeObject<LanguageLevelApi>(content);
+                        break;
+                }
+                //await http.PostAsJsonAsync("LevelApi", lev);
+                uriHelper.NavigateTo("AdminGeneral/LanguageLevels");
+            } }

@@ -1,0 +1,82 @@
+﻿@page "/AdminGeneral/Levels"
+@inject HttpClient client
+@inject IJSRuntime js
+@using Services.Http
+@inject IRepository<int, LevelApi> _levelRepo
+@using System.Net
+@using Newtonsoft.Json
+
+<NavBarTop />
+<h3>Levels</h3>
+<small>Add as many levels as you wish.</small>
+<div class="field">
+    <a class="control" href="AdminGeneral/Levels/create"><i class="oi oi-plus"></i> Create New</a>
+</div>
+<br>
+
+@if (levels == null)
+{
+    <text>Loading...</text>
+}
+else if (levels.Length == 0)
+{
+    <text>No Records Found.</text>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Is Delete</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (LevelApi lev in levels)
+            {
+                <tr>
+                    <td>@lev.Id</td>
+                    <td>@lev.Name</td>
+                    <td>@lev.IsDelete</td>
+                    <td>
+                        <a class="btn btn-success" href="AdminGeneral/Levels/edit/@lev.Id">Edit</a>
+                        <button class="btn btn-danger" @onclick="@(() => Delete(lev.Id))">Delete</button>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+    <a class="navbar-item" href="/AdminGeneral/Accueil">
+        Retour
+    </a>
+}
+@code {
+
+    LevelApi[] levels;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var response = await _levelRepo.Get();
+
+        switch (response.StatusCode)
+        {
+            case HttpStatusCode.OK:
+                string content = await response.Content.ReadAsStringAsync();
+                levels = JsonConvert.DeserializeObject<LevelApi[]>(content);
+                break;
+        }
+    }
+
+    async Task Delete(int levelId)
+    {
+        LevelApi lev = levels.First(x => x.Id == levelId);
+        if (await js.InvokeAsync<bool>("confirm", $"Do you want to delete {lev.Name}'s ({lev.Id}) Record?"))
+        {
+            var response = await _levelRepo.Delete(levelId, lev);
+            await OnInitializedAsync();
+        }
+    }
+}

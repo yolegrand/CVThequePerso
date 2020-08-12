@@ -1,0 +1,54 @@
+﻿@page "/AdminGeneral/Levels/edit/{levelId:int}"
+@inject HttpClient http
+@inject NavigationManager uriHelper
+@inject IJSRuntime js
+@using Services.Http
+@inject IRepository<int, LevelApi> _levelRepo
+@using System.Net
+@using Newtonsoft.Json
+
+    <NavBarTop />
+
+<h3>Edit</h3>
+
+<Form ButtonText="Update" lev="lev"
+      OnValidSubmit="@EditLevel" />
+
+@code {
+    
+        [Parameter] public int levelId { get; set; }
+        LevelApi lev = new LevelApi();
+
+        protected async override Task OnParametersSetAsync()
+        {
+            var response = await _levelRepo.GetOne(levelId);
+
+            switch (response.StatusCode)
+            {
+                case HttpStatusCode.OK:
+                    string content = await response.Content.ReadAsStringAsync();
+                    lev = JsonConvert.DeserializeObject<LevelApi>(content);
+                    break;
+            }
+            //lev = await http.GetFromJsonAsync<LevelApi>("LevelApi" + levelId);
+
+        }
+
+        async Task EditLevel()
+        {
+            var response = await _levelRepo.Put(levelId, lev);
+
+            switch (response.StatusCode)
+            {
+                case HttpStatusCode.OK:
+                    string content = await response.Content.ReadAsStringAsync();
+                    lev = JsonConvert.DeserializeObject<LevelApi>(content);
+                    break;
+            }
+            //await http.PutAsJsonAsync("LevelApi" + levelId, lev);
+            await js.InvokeVoidAsync("alert", $"Updated Successfully!");
+            uriHelper.NavigateTo("AdminGeneral/Levels");
+
+        } 
+    
+    }
