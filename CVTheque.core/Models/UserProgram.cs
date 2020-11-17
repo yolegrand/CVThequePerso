@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CvTheque.Core.Models
+{
+    public class UserProgram
+    {
+        public int Id { get; set; }
+        public int UserId { get; set; }
+        public int ProgramId { get; set; }
+        public int LevelId { get; set; }
+    }
+}

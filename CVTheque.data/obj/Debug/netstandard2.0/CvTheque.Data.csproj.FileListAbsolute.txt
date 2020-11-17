@@ -1,0 +1,28 @@
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Data.deps.json
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Data.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Data.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.csprojAssemblyReference.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.AssemblyInfoInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.AssemblyInfo.cs
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Core.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Core.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.csproj.CopyComplete
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Data\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Data.deps.json
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Data.dll
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Data.pdb
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Core.dll
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\bin\Debug\netstandard2.0\CvTheque.Core.pdb
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.csprojAssemblyReference.cache
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.AssemblyInfoInputs.cache
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.AssemblyInfo.cs
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.csproj.CopyComplete
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.dll
+C:\Users\jevra\Desktop\Projets\CvTheque.Data\obj\Debug\netstandard2.0\CvTheque.Data.pdb

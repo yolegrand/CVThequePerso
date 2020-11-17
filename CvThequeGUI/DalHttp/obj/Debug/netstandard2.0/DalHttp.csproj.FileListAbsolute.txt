@@ -1,0 +1,9 @@
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp\bin\Debug\netstandard2.0\DalHttp.deps.json
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp\bin\Debug\netstandard2.0\DalHttp.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp\bin\Debug\netstandard2.0\DalHttp.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp\obj\Debug\netstandard2.0\DalHttp.csprojAssemblyReference.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp\obj\Debug\netstandard2.0\DalHttp.AssemblyInfoInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp\obj\Debug\netstandard2.0\DalHttp.AssemblyInfo.cs
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp\obj\Debug\netstandard2.0\DalHttp.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp\obj\Debug\netstandard2.0\DalHttp.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp\obj\Debug\netstandard2.0\DalHttp.pdb

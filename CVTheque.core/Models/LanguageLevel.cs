@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CVTheque.core.Models
+namespace CvTheque.Core.Models
 {
-    public class LanguageLevel : BasicInformation
+    public class LanguageLevel : InfoBase
     {
     }
 }

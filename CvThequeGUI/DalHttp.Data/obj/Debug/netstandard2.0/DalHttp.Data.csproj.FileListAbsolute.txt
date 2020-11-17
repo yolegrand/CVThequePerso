@@ -1,0 +1,24 @@
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.Data.deps.json
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.Data.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.core.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.core.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.csprojAssemblyReference.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.AssemblyInfoInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.AssemblyInfo.cs
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.csproj.CopyComplete
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.Data.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.pdb
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.Data.deps.json
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.Data.dll
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.Data.pdb
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.core.dll
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\bin\Debug\netstandard2.0\DalHttp.core.pdb
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.csprojAssemblyReference.cache
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.AssemblyInfoInputs.cache
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.AssemblyInfo.cs
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.csproj.CopyComplete
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.dll
+C:\Users\jevra\Desktop\Projets\CvThequeGUI\DalHttp.Data\obj\Debug\netstandard2.0\DalHttp.Data.pdb

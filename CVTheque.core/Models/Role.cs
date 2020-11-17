@@ -2,14 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CVTheque.core.Models
+namespace CvTheque.Core.Models
 {
-    public class Role : BasicInformation
+    public class Role : InfoBase
     {
-        //public Role()
-        //{
-        //    UserRoles = new List<UserRole>();
-        //}
-        public virtual ICollection<UserRole> UserRoles { get; set; }
     }
 }

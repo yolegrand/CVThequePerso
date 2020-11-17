@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jevra\\Desktop\\CVTheque\\CVTheque.core\\CVTheque.core.csproj": {}
+    "C:\\Users\\jevra\\Desktop\\Projets\\CvTheque.Core\\CvTheque.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jevra\\Desktop\\CVTheque\\CVTheque.core\\CVTheque.core.csproj": {
+    "C:\\Users\\jevra\\Desktop\\Projets\\CvTheque.Core\\CvTheque.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jevra\\Desktop\\CVTheque\\CVTheque.core\\CVTheque.core.csproj",
-        "projectName": "CVTheque.core",
-        "projectPath": "C:\\Users\\jevra\\Desktop\\CVTheque\\CVTheque.core\\CVTheque.core.csproj",
+        "projectUniqueName": "C:\\Users\\jevra\\Desktop\\Projets\\CvTheque.Core\\CvTheque.Core.csproj",
+        "projectName": "CvTheque.Core",
+        "projectPath": "C:\\Users\\jevra\\Desktop\\Projets\\CvTheque.Core\\CvTheque.Core.csproj",
         "packagesPath": "C:\\Users\\jevra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jevra\\Desktop\\CVTheque\\CVTheque.core\\obj\\",
+        "outputPath": "C:\\Users\\jevra\\Desktop\\Projets\\CvTheque.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -22,14 +22,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -40,71 +40,17 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "netstandard2.0": {
           "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[8.0.1, )"
-            },
-            "Cloudcrate.AspNetCore.Blazor.Browser.Storage": {
-              "target": "Package",
-              "version": "[3.0.0, )"
-            },
-            "HttpClientFactory": {
-              "target": "Package",
-              "version": "[1.0.3, )"
-            },
-            "Microsoft.AspNet.WebApi.Core": {
-              "target": "Package",
-              "version": "[5.2.7, )"
-            },
-            "Microsoft.AspNet.WebApi.Owin": {
-              "target": "Package",
-              "version": "[5.2.7, )"
-            },
-            "Microsoft.AspNetCore.Identity": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.0-preview.7.20365.19, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.0-preview.7.20365.15, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0-preview.7.20365.15, )"
+              "version": "[2.0.3, )",
+              "autoReferenced": true
             },
-            "Microsoft.EntityFrameworkCore.InMemory": {
+            "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[5.0.0-preview.7.20365.15, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.0-preview.7.20365.15, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.0-preview.7.20365.15, )"
-            },
-            "Microsoft.Owin.Cors": {
-              "target": "Package",
-              "version": "[4.1.0, )"
-            },
-            "Microsoft.Owin.Security.OAuth": {
-              "target": "Package",
-              "version": "[4.1.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
+              "version": "[4.8.1, )"
             }
           },
           "imports": [
@@ -117,11 +63,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }

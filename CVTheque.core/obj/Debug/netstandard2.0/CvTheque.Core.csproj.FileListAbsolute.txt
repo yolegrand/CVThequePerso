@@ -1,0 +1,18 @@
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.csprojAssemblyReference.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.AssemblyInfoInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.AssemblyInfo.cs
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Core\bin\Debug\netstandard2.0\CvTheque.Core.deps.json
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Core\bin\Debug\netstandard2.0\CvTheque.Core.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Core\bin\Debug\netstandard2.0\CvTheque.Core.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.pdb
+C:\Users\jevra\Desktop\Projets\CvTheque.Core\bin\Debug\netstandard2.0\CvTheque.Core.deps.json
+C:\Users\jevra\Desktop\Projets\CvTheque.Core\bin\Debug\netstandard2.0\CvTheque.Core.dll
+C:\Users\jevra\Desktop\Projets\CvTheque.Core\bin\Debug\netstandard2.0\CvTheque.Core.pdb
+C:\Users\jevra\Desktop\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.csprojAssemblyReference.cache
+C:\Users\jevra\Desktop\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.AssemblyInfoInputs.cache
+C:\Users\jevra\Desktop\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.AssemblyInfo.cs
+C:\Users\jevra\Desktop\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Desktop\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.dll
+C:\Users\jevra\Desktop\Projets\CvTheque.Core\obj\Debug\netstandard2.0\CvTheque.Core.pdb

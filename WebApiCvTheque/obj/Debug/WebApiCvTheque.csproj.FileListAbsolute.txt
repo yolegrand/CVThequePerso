@@ -1,0 +1,209 @@
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\WebApiCvTheque.dll.config
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\WebApiCvTheque.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\WebApiCvTheque.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\csc.exe
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\csc.exe.config
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\csc.rsp
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\csi.exe
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\csi.exe.config
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\csi.rsp
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.AppContext.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Console.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.IO.Compression.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Net.Http.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.ValueTuple.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\vbc.exe
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\vbc.exe.config
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\vbc.rsp
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\VBCSCompiler.exe
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\Antlr3.Runtime.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\Newtonsoft.Json.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Net.Http.Formatting.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Helpers.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Http.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Http.WebHost.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Mvc.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Optimization.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Razor.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.WebPages.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.WebPages.Razor.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\WebGrease.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\Newtonsoft.Json.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Net.Http.Formatting.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Helpers.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Http.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Http.WebHost.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Mvc.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Optimization.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.Razor.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.WebPages.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Web.WebPages.Razor.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\Antlr3.Runtime.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Web.Http.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Web.Razor.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.csprojAssemblyReference.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.csproj.CopyComplete
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\CvTheque.Core.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\CvTheque.Data.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\CvTheque.Services.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Data.SqlClient.dll
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\CvTheque.Core.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\CvTheque.Data.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\CvTheque.Services.pdb
+C:\Users\jevra\Documents\Visual Studio 2019\Projets\WebApiCvTheque\bin\System.Data.SqlClient.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\WebApiCvTheque.dll.config
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\WebApiCvTheque.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\WebApiCvTheque.pdb
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\csc.exe
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\csc.exe.config
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\csc.rsp
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\csi.exe
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\csi.exe.config
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\csi.rsp
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.AppContext.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Console.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.IO.Compression.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Net.Http.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.ValueTuple.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\vbc.exe
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\vbc.exe.config
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\vbc.rsp
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\VBCSCompiler.exe
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\Antlr3.Runtime.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\CvTheque.Core.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\CvTheque.Data.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\CvTheque.Services.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\Newtonsoft.Json.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Data.SqlClient.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Net.Http.Formatting.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Helpers.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Http.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Http.WebHost.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Mvc.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Optimization.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Razor.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.WebPages.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.WebPages.Razor.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\WebGrease.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\CvTheque.Core.pdb
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\CvTheque.Data.pdb
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\CvTheque.Services.pdb
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Data.SqlClient.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\Newtonsoft.Json.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Net.Http.Formatting.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Helpers.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Http.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Http.WebHost.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Mvc.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Optimization.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Razor.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.WebPages.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.WebPages.Razor.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\Antlr3.Runtime.pdb
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Web.Http.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Web.Razor.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.csprojAssemblyReference.cache
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.csproj.CoreCompileInputs.cache
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.csproj.CopyComplete
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\obj\Debug\WebApiCvTheque.pdb
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Cors.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Http.Cors.dll
+C:\Users\jevra\Desktop\Projets\WebApiCvTheque\bin\System.Web.Http.Cors.xml

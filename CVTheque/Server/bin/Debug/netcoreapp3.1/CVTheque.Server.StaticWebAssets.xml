@@ -1,5 +1,0 @@
-﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\jevra\Desktop\CVTheque\CVTheque\Client\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\jevra\Desktop\CVTheque\CVTheque\Client\bin\Debug\netstandard2.1\wwwroot\" />
-  <ContentRoot BasePath="_content/Cloudcrate.AspNetCore.Blazor.Browser.Storage" Path="C:\Users\jevra\.nuget\packages\cloudcrate.aspnetcore.blazor.browser.storage\3.0.0\build\..\staticwebassets\" />
-</StaticWebAssets>
